@@ -1,8 +1,4 @@
 newfile.txt
 afile
 anotherfile
-<<<<<<< HEAD
 abc
-=======
-aa
->>>>>>> a6f24ba112a5fca06f28ee65bd5888ef10c1f345
